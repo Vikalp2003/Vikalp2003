@@ -1,5 +1,9 @@
 ### Hi there 👋
 Myself Vikalp Shinde
+
+- 🔭 I’m currently working on flutter ...
+- 🌱 I’m currently learning JavaScript Reactjs, MongoDB,...
+- 📫 How to reach me: https://www.linkedin.com/in/vikalp-s-b68448222/
 <!--
 **Vikalp2003/Vikalp2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
